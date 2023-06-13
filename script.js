@@ -28,5 +28,5 @@ function updateTxt(field1, field2) {
 
 function PressAlert() {
   console.log("Sign Up Occured");
-  alert("Thanks for siging up!");
+  alert("Thanks for signing up!");
 };
